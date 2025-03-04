@@ -8,4 +8,6 @@ Modern Approaches to Treatment and Rehabilitation is one of the most significant
 
 The Importance of a Comprehensive Approach in Rehabilitation treatments should adopt a comprehensive approach that addresses all aspects of a patient’s physical, psychological, and social well-being. Combining the expertise of various professionals, including physicians, physiotherapists, psychologists, and social workers, can create a multidisciplinary and effective treatment plan. Moreover, raising awareness among families and communities about supporting individuals during rehabilitation is crucial. Today, with an increased emphasis on person-centered care, rehabilitation not only helps improve individual functionality but also plays a vital role in reintegrating individuals into society and enabling independent living.
 
+In this project, we developed the Flappy Bird game. The objective of the game is to control the bird to navigate through obstacles using a grip force mechanism. The game is programmed in MATLAB, although it can also be implemented in Python. Additionally, to capture analog signals and convert them to digital, we use an Arduino and a PowerLab device.
+
 You can find the complete information on data preprocessing, models, and their evaluation in the file Rehabilitation.pdf, which is written in English.
